@@ -37,6 +37,6 @@ const sarah = { //I fixed the sytax so that there was a : instead of an = and i 
 		postalCode : sarahPostal, // I  camelcased
 	},
 }//I fixed
-console.log(leo, leo.address,leo.postalCode) // changed [] to . format
-console.log(sarah, sarah.address,sarah.postalCode)// changed [] to . format
+console.log(leo, leo.address,leo.address.postalCode) // changed [] to . format  fixed directory channel
+console.log(sarah, sarah.address,sarah.address.postalCode)// changed [] to . format and fixed directory channel
  
